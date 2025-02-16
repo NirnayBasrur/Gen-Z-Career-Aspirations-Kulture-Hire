@@ -24,8 +24,8 @@ This project focuses on **HR Analytics** by visualizing key employee insights us
 
 ## 🛠️ Tech Stack
 - **Power BI** – Interactive dashboards and data visualization
-- **SQL** – Data extraction, transformation, and loading (ETL)
-- **Excel** – Data cleaning, preprocessing and analysis using Pivot Tables
+- **SQL** – Data analysis using aggregations and DQL
+- **Excel** – Data cleaning, preprocessing with Power Query and trend analysis using Pivot Tables
 
 ## 📂 Project Structure
 ```
@@ -33,3 +33,20 @@ This project focuses on **HR Analytics** by visualizing key employee insights us
 │── 📊 Dashboards (Power BI PBIX Files)
 │── 📄 Data (CSV, Excel files)
 │── 📜 README.md (Project documentation)
+
+## 📸 Dashboard Screenshots
+![Employee Aspirations Dashboard](Dashboard1.png)
+![Employer Aspirations Dashboard](Dashboard2.png)
+![Employee Development Dashboard](Dashboard3.png)
+
+## 🎯 Key Takeaways
+- Understanding employee expectations helps businesses **align HR strategies** with workforce aspirations.
+- Visual storytelling with **Power BI** can uncover hidden insights from raw data.
+- Data-driven HR decisions lead to **improved employee satisfaction and productivity**.
+
+## 📢 Get in Touch
+If you found this project insightful, let's connect!
+📧 nirnaybasrur@gmail.com | 🔗 linkedin.com/in/nirnay-basrur | 🌐 [Portfolio]
+
+---
+📌 **Feel free to fork, contribute, or share feedback!**
