@@ -34,11 +34,11 @@ This project focuses on **HR Analytics** by visualizing key employee insights us
 │── 📜 README.md (Project documentation)
 ```
 ## 📸 Dashboard Screenshots
-![Employee Aspirations Dashboard]![image](https://github.com/user-attachments/assets/b7a3cde3-8c0c-4b05-a289-a4af0cb7ef7d)
+Employee Aspirations Dashboard![image](https://github.com/user-attachments/assets/b7a3cde3-8c0c-4b05-a289-a4af0cb7ef7d)
 
-![Employer Aspirations Dashboard]![image](https://github.com/user-attachments/assets/e4f2e0d0-ffe4-4539-a245-6730e814ba38)
+Employer Aspirations Dashboard![image](https://github.com/user-attachments/assets/e4f2e0d0-ffe4-4539-a245-6730e814ba38)
 
-![Employee Development Dashboard]![image](https://github.com/user-attachments/assets/960281c2-3def-4e86-be87-635da21cdcb1)
+Employee Development Dashboard![image](https://github.com/user-attachments/assets/960281c2-3def-4e86-be87-635da21cdcb1)
 
 
 ## 🎯 Key Takeaways
