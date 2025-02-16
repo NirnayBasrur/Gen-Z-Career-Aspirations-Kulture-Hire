@@ -46,7 +46,7 @@ This project focuses on **HR Analytics** by visualizing key employee insights us
 
 ## 📢 Get in Touch
 If you found this project insightful, let's connect!
-📧 nirnaybasrur@gmail.com | 🔗 linkedin.com/in/nirnay-basrur | 🌐 [Portfolio]
+📧 nirnaybasrur@gmail.com | 🔗 https://www.linkedin.com/in/nirnay-basrur
 
 ---
 📌 **Feel free to fork, contribute, or share feedback!**
