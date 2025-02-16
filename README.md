@@ -1,8 +1,7 @@
 # 📊 HR Analytics Dashboard – Kulture Hire
-This online project focuses on the career aspirations of Gen-Z individuals using descriptive analysis from data collected through surveys
 
 ## 🚀 Project Overview
-This project focuses on **HR Analytics** by visualizing key employee insights using **Power BI**. The dashboards analyze employee aspirations, workplace frustrations, career motivations, and learning preferences based on survey data. These insights help organizations make **data-driven HR decisions** to improve employee engagement, retention, and productivity.
+This project focuses on **HR Analytics** by visualizing key employee insights using **Power BI**. The dashboards analyze employee aspirations, workplace frustrations, career motivations, and learning preferences based on survey data collected from Deloitte. These insights help organizations make **data-driven HR decisions** to improve employee engagement, retention, and productivity.
 
 ## 📌 Key Features
 ### 1️⃣ Employee Aspirations Dashboard
